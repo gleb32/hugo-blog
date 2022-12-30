@@ -48,3 +48,5 @@ feed = "/:title/"
 [outputs]
 # Output formats for your feed. You probably don't need to change this.
   home = ["HTML", "JSON", "RSS"]
+  
+  theme = 'neofeed-theme'
